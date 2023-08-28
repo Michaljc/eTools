@@ -1,0 +1,11 @@
+{
+  "name": "etool",
+  "version": "1.0.0",
+  "description": "software for better tools management",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "MC",
+  "license": "ISC"
+}
